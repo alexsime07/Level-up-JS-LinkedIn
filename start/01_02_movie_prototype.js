@@ -15,4 +15,3 @@ class Movie {
 }
 const Matrix = new Movie ('Matrix', 'Michael Bay', 'Action', 2001, 91)
 console.log(Matrix.getOverview());
-asd
